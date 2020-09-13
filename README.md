@@ -1,2 +1,2 @@
 # AdvancedTopicPresentations
-Data Science MS Class Presentations
+MS Data Science Class Presentations
